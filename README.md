@@ -1,2 +1,2 @@
-# geo-golist
-this is geo golist
+# Geologist
+Geologist Project
